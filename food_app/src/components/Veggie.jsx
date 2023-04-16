@@ -31,7 +31,7 @@ if(check){
     <Wrapper>
       <h3>Our Vegetarian Picks</h3>
       <Splide options = {{
-        perPage:4,
+        perPage:3,
         arrows:false,
         pagination: false,
         drag:'free',
